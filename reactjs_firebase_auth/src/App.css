@@ -1,0 +1,79 @@
+
+.box{
+  padding: 20px;
+  background-color: #1d2027;
+  margin-top: 40px;
+  width: 900px;
+  border-radius: 30px;
+}
+.box h1{
+  font-size: 55px;
+  color: darkslategray;
+  font-weight: 600;
+  font-family: 'Courier New', Courier, monospace;
+}
+.box .row{
+  color: aliceblue;
+  font-size: 20px;
+  width: 600px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.box .row label{
+  margin: 10px 0;
+}
+.box form{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.box button{
+  margin: 20px 0;
+  width: 200px;
+  text-align: center;
+  font-size: 25px;
+}
+.box .row input{
+  border-radius: 15px;
+  height: 45px;
+}
+.box .link_s{
+  font-size: 23px;
+  color: cornflowerblue;
+}
+.radio input{
+  width: 25px;
+  margin: 5px 30px;
+}
+
+.profile,.content{
+  border: 1px solid #1d2027;
+  border-radius: 10px;
+  padding: 20px;
+}
+.profile p{
+  font-weight: 600;
+  font-size: 18px;
+}
+.content{
+  font-size: 20px;
+  text-align: center;
+}
+.container{
+  width: 0%;
+}
+.content img{
+  margin: 20px 250px ;
+  width: 200px;
+}
+.cat p{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+  padding: 20px;
+  font-weight: 500;
+}
+.cat button{
+  width: 200px;
+  font-size: 18px;
+  margin: 10px 35%;
+}
